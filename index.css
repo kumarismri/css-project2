@@ -196,6 +196,10 @@ h2
 }
 
 @media screen and (max-width: 450px){
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
     
 .containeer{
    
