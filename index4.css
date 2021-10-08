@@ -1,0 +1,210 @@
+.mainbox1{
+    width: 500px;
+    height: 240px;
+    border: 2px solid red;
+    position: absolute;
+    border-radius: 15px;
+    left: 490px;
+    top: 250px;
+    z-index: 2;
+}
+
+.fa-arrow-circle-left:before, .fa-circle-arrow-left:before {
+    content: "\f0a8";
+    color: red;
+    font-size: 40px;
+    position: relative;
+    left: -50px;
+    top: -50px
+}
+
+
+.btn{
+    color: white;
+    background-color: red;
+    text-align: center;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 26px;
+    padding: 6px 30px 6px 30px;
+    top: 153px;
+    left: 193px;
+}
+
+
+.text
+{
+    color: red;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 33px;
+    left: 176px;
+}
+
+
+.area{
+    border: 2px solid red;
+    border-radius: 6px;
+    position: absolute;
+    height: 44px;
+    width: 355px;
+    top: 78px;
+    left: 72px;
+}
+
+.main2{
+    filter: blur(9px);
+}
+
+/* 
+.parent{
+    border: 2px solid black;
+    height: px;
+    width: 1520px;
+    position: relative;
+    height: 681px;
+}  */
+
+.back{
+    margin-left: 0px;
+}
+
+
+
+
+@media screen and (max-width: 450px)
+{
+
+    body{
+        overflow-y: hidden;
+        overflow: hidden;
+    }
+        /* .container {
+            flex-wrap: wrap;
+            margin-top: 176px;
+            margin-left: 36%;
+    } */
+
+   /* .area{
+    border: 8px solid red;
+    border-radius: 6px;
+    position: absolute;
+    height: 101px;
+    width: 713px;
+    top: 185px;
+    left: 72px;
+   } */
+/* 
+   .parent{
+    border: 2px solid black;
+    height: px;
+    width: 1187px;
+    position: relative;
+    height: 2113px;
+   } */
+
+   /* .mainbox1{
+    width: 907px;
+    height: 589px;
+    border: 7px solid red;
+    position: absolute;
+    border-radius: 15px;
+    left: 145px;
+    top: 948px;
+    z-index: 2;
+   } */
+
+   /* .text {
+    color: red;
+    font-size: 89px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 33px;
+    left: 176px;
+    } */
+
+    /* .area {
+        border: 8px solid red;
+        border-radius: 6px;
+        position: absolute;
+        height: 101px;
+        width: 713px;
+        top: 185px;
+        left: 72px;
+    } */
+
+    /* .btn {
+        color: white;
+        background-color: red;
+        text-align: center;
+        border-radius: 30px;
+        position: absolute;
+        font-size: 83px;
+        padding: 6px 30px 6px 30px;
+        top: 318px;
+        left: 357px;
+    } */
+    
+
+
+.btn{
+    color: white;
+    background-color: red;
+    text-align: center;
+    border-radius: 30px;
+    position: absolute;
+    font-size: 11px;
+    padding: 6px 15px 6px 15px;
+    top: 132px;
+    left: 137px;
+}
+
+.area{
+    border: 2px solid red;
+    border-radius: 6px;
+    position: absolute;
+    height: 37px;
+    width: 212px;
+    top: 78px;
+    left: 56px;
+}
+
+.text{
+    color: red;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 33px;
+    left: 82px;
+}
+
+.mainbox1{
+    width: 319px;
+    height: 178px;
+    border: 2px solid red;
+    position: absolute;
+    border-radius: 15px;
+    left: 32px;
+    top: 250px;
+    z-index: 2;
+}
+
+
+.fa-arrow-circle-left:before, .fa-circle-arrow-left:before {
+    content: "\f0a8";
+    color: red;
+    font-size: 40px;
+    position: relative;
+    left: -3px;
+    top: -16px;
+}
+
+
+
+
+
+}
+
+
+
